@@ -16,4 +16,7 @@ public class RobertoMartinezHobby {
 	public void setObra(String obra) {
 		this.obra=obra;
 	}
+	public String getCompositor() {
+		return compositor;
+	}
 }
