@@ -29,5 +29,10 @@ public class RobertoMartinezHobby {
 	public void setNombreHobby(String nombreHobby) {
 		this.nombreHobby=nombreHobby;
 	}
+	private void imprimir() {
+		for(int i=0;i<1000;i++) {
+			System.out.println(nombreHobby);
+		}
+	}
 
 }
