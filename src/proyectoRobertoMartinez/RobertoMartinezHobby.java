@@ -22,4 +22,7 @@ public class RobertoMartinezHobby {
 	public void setCompositor(String compositor) {
 		this.compositor=compositor;
 	}
+	public String setNombreHobby() {
+		return nombreHobby;
+	}
 }
