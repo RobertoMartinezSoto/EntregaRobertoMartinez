@@ -13,4 +13,7 @@ public class RobertoMartinezHobby {
 	public String getObra() {
 		return obra;
 	}
+	public void setObra(String obra) {
+		this.obra=obra;
+	}
 }
